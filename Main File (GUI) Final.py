@@ -7,8 +7,7 @@ from tabulate import tabulate
 import matplotlib.pyplot as plt
 from random import randint, randrange 
 
-'''THIS PROGRAM IS DEVELOPED BY AMIT SIROHI & OM ARYAN,
-   STUDENTS OF GRADE XII-A '''
+'''THIS PROGRAM IS DEVELOPED BY AMIT SIROHI & OM ARYAN '''
 
 # Ask for a State name, then run a query to extract actual stats through
 # Python-SQL integration w/ GUI(Tkinter)
